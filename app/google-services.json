@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "773999869102",
+    "firebase_url": "https://loggandchat.firebaseio.com",
+    "project_id": "loggandchat",
+    "storage_bucket": "loggandchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773999869102:android:005e44235f592788",
+        "android_client_info": {
+          "package_name": "android.mahmoud.com.loggandchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773999869102-a8i2q5meel6c0al069ao5d551sokb4b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.mahmoud.com.loggandchat",
+            "certificate_hash": "6e84dbc88ae98c5d9316ee8a3d863c338f32243d"
+          }
+        },
+        {
+          "client_id": "773999869102-acvagi0ijd63mq1k230ojli54n8pbcjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvyTENYM4T2Zr8E8Fze9Es8UldPpZLJME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773999869102-acvagi0ijd63mq1k230ojli54n8pbcjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
